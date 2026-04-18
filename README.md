@@ -31,4 +31,4 @@ ollama pull phi
 
 ## 📸 Demo
 
-![App Screenshot](https://raw.githubusercontent.com/EmanArshad2/rag-pdf-chat/main/screenshot.png)
+![App Screenshot](./screenshot.png)
