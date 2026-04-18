@@ -8,7 +8,7 @@ __pycache__/
 venv/
 .env
 
-# Data (VERY IMPORTANT for your project)
+# Data 
 data/
 *.pdf
 
