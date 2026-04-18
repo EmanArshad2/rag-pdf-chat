@@ -28,7 +28,3 @@ Requirements
 ollama pull phi
 
 ---
-
-## 📸 Demo
-
-![App Screenshot](./screenshot.png)
